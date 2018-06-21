@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<material>
+    <technique name="Techniques/NoTextureUnlit.xml" />
+	<parameter name="MatDiffColor" value="0.8 0.8 0.8 1" />
+</material>

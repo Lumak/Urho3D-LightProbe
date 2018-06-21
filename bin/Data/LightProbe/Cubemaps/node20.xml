@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<cubemap>
+    <face name="LightProbe/Cubemaps/node20_PosX.png" />
+    <face name="LightProbe/Cubemaps/node20_NegX.png" />
+    <face name="LightProbe/Cubemaps/node20_PosY.png" />
+    <face name="LightProbe/Cubemaps/node20_NegY.png" />
+    <face name="LightProbe/Cubemaps/node20_PosZ.png" />
+    <face name="LightProbe/Cubemaps/node20_NegZ.png" />
+</cubemap>

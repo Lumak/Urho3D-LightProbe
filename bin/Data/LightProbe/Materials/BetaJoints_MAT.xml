@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<material>
+	<technique name="Techniques/NoTextureLP.xml" />
+    <texture unit="environment" name="LightProbe/Textures/SHprobeData.png" />
+    <parameter name="ProbeIndex" value="-1" />
+    <parameter name="ProbePosition" value="0 0 0" />
+	<parameter name="MinProbeDistance" value="4" />
+	<parameter name="SHIntensity" value="2.0" />
+	<parameter name="TextureSize" value="64" />
+
+    <parameter name="MatDiffColor" value="0.046288 0.046288 0.046288 1" />
+	<parameter name="MatSpecColor" value="0.15662 0.548481 0.764 20" />
+	<parameter name="MatEmissiveColor" value="0 0 0 1" />
+</material>
